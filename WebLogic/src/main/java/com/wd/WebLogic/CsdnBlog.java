@@ -47,7 +47,7 @@ public class CsdnBlog implements PageProcessor {
 
 //            page.putField("date",
 //            page.getHtml().xpath("//div[@id='articlebody']//span[@class='time SG_txtc']").regex("\\((.*)\\)"));
-        }
+        }      
 	}
 
 	public Site getSite() {

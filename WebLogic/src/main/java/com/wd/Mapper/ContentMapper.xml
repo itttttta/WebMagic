@@ -9,7 +9,7 @@
   </resultMap>
   <resultMap id="ResultMapWithBLOBs" type="com.wd.Enity.Content" extends="BaseResultMap" >
     <result column="content" property="content" jdbcType="LONGVARCHAR" />
-  </resultMap>
+  </resultMap>"src/main/java/com/wd/Mapper/ContentMapper.xml"
   <sql id="Base_Column_List" >
     id, title, create_time, update_time
   </sql>
