@@ -1,0 +1,1199 @@
+[INFO] [2016-12-28 15:10:56][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 15:10:56][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-28 15:11:19][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 15:11:19][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[ERROR] [2016-12-28 15:11:21][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.wd.CoilingDragon.WebMagic.CoilingDragon.process(CoilingDragon.java:78)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-28 15:12:44][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 15:12:44][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-28 15:13:41][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 15:13:41][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[ERROR] [2016-12-28 15:13:44][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.wd.CoilingDragon.WebMagic.CoilingDragon.process(CoilingDragon.java:77)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-28 15:15:03][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 15:15:03][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-28 15:20:25][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 15:20:25][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-28 15:23:09][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 15:23:09][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-28 15:24:49][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 15:24:49][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-28 15:26:50][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 15:26:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-28 15:29:14][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 15:29:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-28 15:55:15][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 15:55:15][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-28 16:01:25][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 16:01:26][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-28 16:15:28][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-28 16:15:28][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 11:45:13][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 11:45:13][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:17:13][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:17:13][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:17:37][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:17:37][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:17:39][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:17:39][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 14:17:40][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:17:40][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:17:40][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[ERROR] [2016-12-29 14:17:41][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:18:11][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:18:11][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[ERROR] [2016-12-29 14:18:13][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:18:13][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:18:13][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[ERROR] [2016-12-29 14:18:14][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:18:14][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:18:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5
+[ERROR] [2016-12-29 14:18:16][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:18:16][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:18:16][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6
+[ERROR] [2016-12-29 14:18:18][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:18:18][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:18:18][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7
+[ERROR] [2016-12-29 14:18:20][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:18:20][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:18:20][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-8
+[ERROR] [2016-12-29 14:18:22][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-8', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:18:22][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:18:22][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-9
+[ERROR] [2016-12-29 14:18:24][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-9', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:18:24][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:18:24][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-10
+[ERROR] [2016-12-29 14:18:27][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-10', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:18:27][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:18:27][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-11
+[ERROR] [2016-12-29 14:18:31][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-11', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:22:38][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:22:38][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:23:03][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:23:03][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 14:23:05][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:24:31][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:24:31][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:24:40][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:24:40][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 14:24:42][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:24:47][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:24:47][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[ERROR] [2016-12-29 14:24:48][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:24:48][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:24:48][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[ERROR] [2016-12-29 14:24:52][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:24:52][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:24:52][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[ERROR] [2016-12-29 14:24:53][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:32)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:24:53][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:24:53][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5
+[INFO] [2016-12-29 14:29:52][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:29:52][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/
+[ERROR] [2016-12-29 14:29:53][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:30:34][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:30:34][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/
+[ERROR] [2016-12-29 14:30:57][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:31:13][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:31:13][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/
+[ERROR] [2016-12-29 14:32:03][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:32:26][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:32:26][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/
+[ERROR] [2016-12-29 14:32:28][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:32:48][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:32:48][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/
+[INFO] [2016-12-29 14:34:21][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:34:21][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/
+[INFO] [2016-12-29 14:34:56][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:34:56][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/
+[INFO] [2016-12-29 14:35:13][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:35:13][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/
+[ERROR] [2016-12-29 14:35:15][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:36:25][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:36:25][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:37:46][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:37:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:38:33][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:38:33][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 14:38:42][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:35)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:42:13][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:42:13][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:43:32][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:43:32][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:46:56][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:46:56][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:50:12][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:50:12][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:51:29][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:51:29][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:53:31][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:53:31][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:54:10][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:54:10][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:55:38][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:55:38][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:55:41][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:55:41][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 14:55:43][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:35)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:55:43][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:55:43][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[ERROR] [2016-12-29 14:55:45][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:35)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:55:45][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:55:45][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[ERROR] [2016-12-29 14:55:46][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:35)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:55:46][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:55:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[ERROR] [2016-12-29 14:55:47][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:35)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:55:47][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:55:47][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5
+[ERROR] [2016-12-29 14:55:48][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:35)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:55:48][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:55:48][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6
+[INFO] [2016-12-29 14:56:18][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:56:18][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 14:56:51][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:56:51][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 14:56:52][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:35)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:57:36][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:57:36][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 14:58:53][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:58:53][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[ERROR] [2016-12-29 14:59:00][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:35)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:59:25][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:59:25][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[ERROR] [2016-12-29 14:59:27][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:35)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 14:59:53][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 14:59:53][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[ERROR] [2016-12-29 14:59:55][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:35)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:00:21][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:00:21][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 15:00:23][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:00:23][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 15:01:01][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:01:01][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:01:01][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 15:02:13][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:02:13][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 15:02:14][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:02:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 15:02:16][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:02:16][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:02:16][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[ERROR] [2016-12-29 15:02:18][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:02:18][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:02:18][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[ERROR] [2016-12-29 15:02:20][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:02:20][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:02:20][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[INFO] [2016-12-29 15:06:11][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:06:11][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 15:06:13][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:06:13][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 15:06:15][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:06:15][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:06:15][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[ERROR] [2016-12-29 15:06:16][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:06:16][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:06:16][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[ERROR] [2016-12-29 15:06:18][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:06:18][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:06:18][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[ERROR] [2016-12-29 15:06:19][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:06:19][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:06:19][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5
+[ERROR] [2016-12-29 15:06:21][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:06:21][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:06:21][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6
+[ERROR] [2016-12-29 15:06:22][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:06:22][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:06:22][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7
+[ERROR] [2016-12-29 15:06:24][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:06:24][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:06:24][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-8
+[ERROR] [2016-12-29 15:06:25][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-8', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:06:25][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:06:25][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-9
+[ERROR] [2016-12-29 15:06:26][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-9', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:06:26][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:06:26][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-10
+[INFO] [2016-12-29 15:06:45][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:06:45][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 15:07:08][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:07:08][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 15:07:48][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:07:48][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 15:07:50][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:07:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 15:08:08][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 15:08:08][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:08:08][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 15:10:19][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:10:19][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 15:10:21][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:10:21][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 15:10:29][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:10:29][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 15:12:31][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:12:31][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 15:12:33][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:12:33][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 15:13:14][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 15:13:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 16:11:04][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:11:04][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:11:39][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:11:39][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:11:41][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:11:41][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 16:11:43][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:11:44][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:11:44][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[ERROR] [2016-12-29 16:11:45][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:11:45][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:11:45][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[ERROR] [2016-12-29 16:11:47][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:11:47][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:11:47][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[ERROR] [2016-12-29 16:11:49][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:11:49][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:11:49][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5
+[ERROR] [2016-12-29 16:11:51][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:11:51][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:11:51][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6
+[ERROR] [2016-12-29 16:11:52][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:11:52][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:11:52][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7
+[ERROR] [2016-12-29 16:11:54][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:11:54][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:11:54][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-8
+[ERROR] [2016-12-29 16:11:56][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-8', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:11:56][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:11:56][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-9
+[ERROR] [2016-12-29 16:11:57][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-9', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:11:57][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:11:57][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-10
+[INFO] [2016-12-29 16:17:31][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:17:31][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:17:35][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:17:35][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 16:18:14][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:18:33][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:18:33][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:18:37][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:18:37][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 16:18:39][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:18:39][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:18:39][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[ERROR] [2016-12-29 16:18:40][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:18:40][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:18:40][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[ERROR] [2016-12-29 16:18:45][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:18:45][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:18:45][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[ERROR] [2016-12-29 16:18:48][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:18:48][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:18:48][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5
+[ERROR] [2016-12-29 16:18:51][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:18:51][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:18:51][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6
+[ERROR] [2016-12-29 16:18:54][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:18:54][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:18:54][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7
+[INFO] [2016-12-29 16:19:01][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:01][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:19:03][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:03][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 16:19:06][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:19:06][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:06][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[ERROR] [2016-12-29 16:19:07][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:19:07][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:07][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[ERROR] [2016-12-29 16:19:09][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:19:09][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:09][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[ERROR] [2016-12-29 16:19:11][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:19:11][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:11][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5
+[ERROR] [2016-12-29 16:19:12][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:19:12][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:12][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6
+[ERROR] [2016-12-29 16:19:15][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:19:15][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:15][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7
+[ERROR] [2016-12-29 16:19:18][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:19:18][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:18][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-8
+[ERROR] [2016-12-29 16:19:20][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-8', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:19:20][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:20][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-9
+[INFO] [2016-12-29 16:19:36][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:36][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:19:38][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:38][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 16:19:39][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:19:39][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:39][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[ERROR] [2016-12-29 16:19:40][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:19:40][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:40][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[ERROR] [2016-12-29 16:19:43][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:19:43][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:19:43][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[ERROR] [2016-12-29 16:19:44][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:20:44][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:20:44][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:20:46][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:20:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[ERROR] [2016-12-29 16:21:34][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:21:34][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:21:34][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[ERROR] [2016-12-29 16:21:44][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:21:44][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:21:44][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[ERROR] [2016-12-29 16:21:45][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:21:45][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:21:45][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[ERROR] [2016-12-29 16:21:47][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:21:47][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:21:47][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5
+[ERROR] [2016-12-29 16:21:48][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:21:48][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:21:48][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6
+[ERROR] [2016-12-29 16:21:50][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:21:50][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:21:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7
+[ERROR] [2016-12-29 16:21:52][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:21:52][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:21:52][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-8
+[ERROR] [2016-12-29 16:21:53][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-8', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:21:53][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:21:53][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-9
+[ERROR] [2016-12-29 16:21:54][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-9', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:21:54][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:21:54][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-10
+[ERROR] [2016-12-29 16:21:57][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-10', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:21:57][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:21:57][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-11
+[ERROR] [2016-12-29 16:21:59][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-11', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:21:59][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:21:59][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-12
+[ERROR] [2016-12-29 16:22:00][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com/cdindex-html/book-1-chapter-12', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.CoilingDragon.WebMagic.ContentWebMagic.process(ContentWebMagic.java:37)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-29 16:22:00][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:22:00][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-13
+[INFO] [2016-12-29 16:24:44][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:24:44][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:24:51][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:24:51][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 16:24:57][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:24:57][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 16:26:06][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:26:06][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:26:08][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:26:08][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 16:28:06][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:28:06][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:28:08][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:28:08][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 16:28:14][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:28:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 16:28:21][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:28:21][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[INFO] [2016-12-29 16:30:27][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:30:27][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:30:30][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:30:30][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 16:35:08][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:35:08][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:35:10][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:35:10][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 16:35:16][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:35:16][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 16:35:24][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:35:24][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[INFO] [2016-12-29 16:35:31][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:35:31][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[INFO] [2016-12-29 16:37:36][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:37:36][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:37:38][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:37:38][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 16:37:45][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:37:45][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 16:37:52][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:37:52][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[INFO] [2016-12-29 16:42:18][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:42:18][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:42:20][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:42:20][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 16:42:27][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:42:27][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 16:42:38][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:42:38][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[INFO] [2016-12-29 16:48:07][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:48:07][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:48:14][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:48:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 16:49:58][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:49:58][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 16:51:07][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:51:07][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[INFO] [2016-12-29 16:52:09][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:52:09][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:52:11][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:52:11][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 16:52:25][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:52:25][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 16:52:32][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:52:32][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[INFO] [2016-12-29 16:52:39][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:52:39][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[INFO] [2016-12-29 16:52:46][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:52:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5
+[INFO] [2016-12-29 16:52:53][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:52:53][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6
+[INFO] [2016-12-29 16:53:57][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:53:57][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:54:01][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:54:01][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 16:54:09][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:54:09][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 16:54:15][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:54:15][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[INFO] [2016-12-29 16:54:22][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:54:22][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[INFO] [2016-12-29 16:54:28][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:54:28][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5
+[INFO] [2016-12-29 16:54:34][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:54:34][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6
+[INFO] [2016-12-29 16:54:41][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:54:41][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7
+[INFO] [2016-12-29 16:54:47][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:54:47][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-8
+[INFO] [2016-12-29 16:59:09][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:59:09][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 16:59:10][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:59:10][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 16:59:25][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:59:25][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 16:59:32][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:59:32][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[INFO] [2016-12-29 16:59:39][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 16:59:39][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[INFO] [2016-12-29 17:01:15][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 17:01:15][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2016-12-29 17:01:16][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 17:01:16][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-1
+[INFO] [2016-12-29 17:01:23][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 17:01:23][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-2
+[INFO] [2016-12-29 17:01:30][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 17:01:30][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-3
+[INFO] [2016-12-29 17:01:37][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 17:01:37][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4
+[INFO] [2016-12-29 17:01:43][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 17:01:43][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-5
+[INFO] [2016-12-29 17:01:50][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 17:01:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-6
+[INFO] [2016-12-29 17:01:57][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 17:01:57][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-7
+[INFO] [2016-12-29 17:02:03][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 17:02:03][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-8
+[INFO] [2016-12-29 17:02:10][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 17:02:10][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-9
+[INFO] [2016-12-29 17:02:16][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-29 17:02:16][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-10

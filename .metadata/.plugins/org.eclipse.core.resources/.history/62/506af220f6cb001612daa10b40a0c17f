@@ -1,0 +1,54 @@
+package com.wd.CoilingDragon.Enity;
+
+
+
+
+public class Catalogue {
+
+	private String origin_url;
+	private String catalogue;
+	private String super_title;
+	private String title;
+	private long id;
+	private long book_id;
+	
+	public String getOrigin_url() {
+		return origin_url;
+	}
+	public void setOrigin_url(String origin_url) {
+		this.origin_url = origin_url;
+	}
+	public String getCatalogue() {
+		return catalogue;
+	}
+	public void setCatalogue(String catalogue) {
+		this.catalogue = catalogue;
+	}
+	public String getSuper_title() {
+		return super_title;
+	}
+	public void setSuper_title(String super_title) {
+		this.super_title = super_title;
+	}
+	public String getTitle() {
+		return title;
+	}
+	public void setTitle(String title) {
+		this.title = title;
+	}
+	public long getId() {
+		return id;
+	}
+	public void setId(long id) {
+		this.id = id;
+	}
+	public long getBook_id() {
+		return book_id;
+	}
+	public void setBook_id(long book_id) {
+		this.book_id = book_id;
+	}
+	
+
+	
+}

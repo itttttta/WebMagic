@@ -1,0 +1,56 @@
+package com.wd.WebLogic;
+
+import us.codecraft.webmagic.Page;
+import us.codecraft.webmagic.Site;
+import us.codecraft.webmagic.Spider;
+import us.codecraft.webmagic.pipeline.JsonFilePipeline;
+import us.codecraft.webmagic.processor.PageProcessor;
+
+public class CsdnBlog implements PageProcessor {
+
+	public static final String URL_Base = "http://blog.csdn.net";
+//	public static final String URL_LIST = "http://blog\\.sina\\.com\\.cn/s/articlelist_1487828712_0_\\d+\\.html";
+//	public static final String URL_LIST = "http://blog\\.csdn\\.net/huifeidexin_1/article/list/\\d+";
+	public static final String URL_LIST = "/huifeidexin_1/article/list/\\d+";
+
+
+//    public static final String URL_POST = "http://blog\\.sina\\.com\\.cn/s/blog_\\w+\\.html";
+    public static final String URL_POST = "/huifeidexin_1/article/details/\\d+";
+	
+    private Site site = Site
+            .me()
+            .setDomain("blog.sina.com.cn")
+            .setSleepTime(3000)
+            .setUserAgent(
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31");
+    
+	public void process(Page page) {
+		// TODO Auto-generated method stub
+		
+		//列表页
+        if (page.getUrl().regex(URL_LIST).match()) {
+        	
+            page.addTargetRequests(page.getHtml().xpath("//div[@class=\"article_title\"]").links().regex(URL_POST).all());
+            page.addTargetRequests(page.getHtml().links().regex(URL_LIST).all());
+            //文章页
+        } else {
+            page.putField("title", page.getHtml().xpath("//div[@class='article_title']/h1"));
+            page.putField("content", page.getHtml().xpath("//div[@class='article_content']"));
+//            page.putField("date",
+//            page.getHtml().xpath("//div[@id='articlebody']//span[@class='time SG_txtc']").regex("\\((.*)\\)"));
+        }
+	}
+
+	public Site getSite() {
+		// TODO Auto-generated method stub
+		return site;
+	}
+	
+	  public static void main(String[] args) {
+	        Spider.create(new CsdnBlog())
+	        		.addUrl("http://blog.sina.com.cn/s/articlelist_1487828712_0_1.html")
+	                .addPipeline(new JsonFilePipeline("/Users/wangda/Desktop/scrapy/"))
+	                .run();
+	    }
+
+}

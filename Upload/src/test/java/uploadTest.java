@@ -29,6 +29,7 @@ public class uploadTest {
         ClientConfig clientConfig = new ClientConfig();
         // 设置bucket所在的区域，比如广州(gz), 天津(tj)
         clientConfig.setRegion("hd");
+//        clientConfig.setUploadCosEndPointPrefix("");
         // 初始化秘钥信息
         Credentials cred = new Credentials(appId, secretId, secretKey);
         // 初始化cosClient
@@ -39,14 +40,18 @@ public class uploadTest {
         // 1. 上传文件(默认不覆盖)
         // 将本地的local_file_1.txt上传到bucket下的根分区下,并命名为sample_file.txt
         // 默认不覆盖, 如果cos上已有文件, 则返回错误
-        String cosFilePath = "/sample_file.txt";
+        String cosFilePath = "/sample_file.xmind";
         String localFilePath1 = "/Users/wangda/Documents/追书神器的换源.xmind";
         UploadFileRequest uploadFileRequest =
                 new UploadFileRequest(bucketName, cosFilePath, localFilePath1);
-        uploadFileRequest.setEnableSavePoint(false);
-        uploadFileRequest.setEnableShaDigest(false);
+//        uploadFileRequest.setEnableSavePoint(false);
+//        uploadFileRequest.setEnableShaDigest(false);
         String uploadFileRet = cosClient.uploadFile(uploadFileRequest);
         System.out.println("upload file ret:" + uploadFileRet);
+        
+//        StatFileRequest statFileRequest = new StatFileRequest(bucketName, "/20161118市中护理部试用情况及相关调整.doc");
+//        String statFileRet = cosClient.statFile(statFileRequest);
+//        System.out.println("statFileRet:" + statFileRet);
 
 //        // 2. 下载文件
 //        String localPathDown = "src/test/resources/local_file_down.txt";
@@ -162,9 +167,18 @@ public class uploadTest {
 		 // 初始化cosClient
 		    COSClient cosClient = new COSClient(clientConfig, cred);
 		    
-		    UploadFileRequest uploadFileRequest = new UploadFileRequest(bucketName,"/sample_file.txt", "/Users/wangda/Documents/追书神器的换源.xmind");
-		    String uploadFileRet = cosClient.uploadFile(uploadFileRequest);
-		    System.out.println(uploadFileRet);
+//		    UploadFileRequest uploadFileRequest = new UploadFileRequest(bucketName,"/sample_file.txt", "/Users/wangda/Documents/追书神器的换源.xmind");
+//		    String uploadFileRet = cosClient.uploadFile(uploadFileRequest);
+//		    System.out.println(uploadFileRet);
+		    String cosFilePath = "/sample_file.txt";
+	        String localFilePath1 = "/Users/wangda/Documents/追书神器的换源.xmind";
+		    
+		    UploadFileRequest uploadFileRequest =
+	                new UploadFileRequest(bucketName, cosFilePath, localFilePath1);
+	        uploadFileRequest.setEnableSavePoint(false);
+	        uploadFileRequest.setEnableShaDigest(false);
+	        String uploadFileRet = cosClient.uploadFile(uploadFileRequest);
+	        System.out.println("upload file ret:" + uploadFileRet);
 	}
 	
    

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;config&apos; to &apos;WebLogic&apos;&#x0A;- Original project: &apos;Scrapy&apos;&#x0A;- Destination element: &apos;WebLogic&apos;&#x0A;- Original element: &apos;Scrapy/config&apos;" description="Copy source folder" destination="=WebLogic" element1="/config" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1480385249946" version="1.0"/>
+</session>

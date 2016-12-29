@@ -1,0 +1,11 @@
+package com.wd.CoilingDragon.Enity;
+
+import us.codecraft.webmagic.model.annotation.HelpUrl;
+import us.codecraft.webmagic.model.annotation.TargetUrl;
+
+@TargetUrl("https://www.liepin.com/job/*")
+@HelpUrl("https://www.liepin.com/sojob/?dqs=020&curPage=\\d+")
+public class Catalogue {
+	
+
+}

@@ -1,0 +1,24 @@
+package com.wd.CoilingDragon.Enity;
+
+import us.codecraft.webmagic.Page;
+import us.codecraft.webmagic.model.AfterExtractor;
+import us.codecraft.webmagic.model.annotation.HelpUrl;
+import us.codecraft.webmagic.model.annotation.TargetUrl;
+
+@TargetUrl("https://www.liepin.com/job/*")
+@HelpUrl("https://www.liepin.com/sojob/?dqs=020&curPage=\\d+")
+public class Catalogue implements AfterExtractor{
+
+	private String origin_url;
+	private String catalogue;
+	private String super_title;
+	private String title;
+	private long id;
+	private long book_id;
+	
+	public void afterProcess(Page arg0) {
+		
+	}
+	
+
+}

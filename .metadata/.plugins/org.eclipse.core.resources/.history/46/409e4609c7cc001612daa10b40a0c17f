@@ -1,0 +1,48 @@
+import java.util.Date;
+
+import javax.annotation.Resource;
+
+import org.apache.ibatis.session.SqlSession;
+import org.apache.log4j.Logger;
+import org.junit.Before;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.test.context.ContextConfiguration;
+
+import com.wd.CoilingDragon.Dao.CatalogueMapper;
+import com.wd.CoilingDragon.Enity.Catalogue;
+import com.wd.Tools.DBTools;
+
+public class CoilingDragonTest {
+//	private static Logger logger = Logger.getLogger(CoilingDragonTest.class); 
+//	private ApplicationContext ac = null;  
+//	@Resource  
+//	private CatalogueMapper catalogueMapper = null;  
+
+//  @Before  
+//  public void before() {  
+//      ac = new ClassPathXmlApplicationContext("applicationContext.xml");  
+//      catalogueMapper = (IUserService) ac.getBean("userService");  
+//  }  
+	
+	@Test
+	public void insertTest(){
+		  SqlSession session = DBTools.getSession();
+	        CatalogueMapper mapper = session.getMapper(CatalogueMapper.class);
+	        Catalogue catalogue = new Catalogue();
+	        catalogue.setBookId(1);
+	        catalogue.setCatalogue("测试");
+	        catalogue.setCreateTime(new Date());
+	        catalogue.setOriginUrl("http");
+	        try {
+	            mapper.insert(catalogue);
+	            System.out.println(catalogue.toString());
+	             session.commit();
+	        } catch (Exception e) {
+	            e.printStackTrace();
+	            session.rollback();
+	        }
+	}
+}

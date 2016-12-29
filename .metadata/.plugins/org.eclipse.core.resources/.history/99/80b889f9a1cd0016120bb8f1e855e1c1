@@ -1,0 +1,82 @@
+package com.wd.CoilingDragon.WebMagic;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+import org.apache.ibatis.session.SqlSession;
+import org.junit.Test;
+
+import com.wd.CoilingDragon.Dao.ContentMapper;
+import com.wd.CoilingDragon.Enity.Catalogue;
+import com.wd.CoilingDragon.Enity.Content;
+import com.wd.Tools.DBTools;
+
+import us.codecraft.webmagic.Page;
+import us.codecraft.webmagic.Site;
+import us.codecraft.webmagic.Spider;
+import us.codecraft.webmagic.processor.PageProcessor;
+
+public class ContentWebMagic  implements PageProcessor{
+
+	public static final String URL_Base = "http://www.wuxiaworld.com/cdindex-html/";
+//	public static final String Regex = "http://www.wuxiaworld.com/cdindex-html/(\\w+)/.*";
+	static  Catalogue catalogue;
+//	SqlSession session = DBTools.getSession();
+//	ContentMapper mapper = session.getMapper(ContentMapper.class);
+	  // 部分一：抓取网站的相关配置，包括编码、抓取间隔、重试次数等
+    private Site site = Site.me().setRetryTimes(3).setSleepTime(5000);
+    
+
+	public void process(Page page) {
+		
+		String tmp = page.getHtml().all().toString();
+		System.out.println("catalogue"+ catalogue.toString());
+		System.out.println("tmp = "+ tmp);
+
+		Content content = new Content();
+		content.setCatalogueId(catalogue.getId());
+		    String contentRegex = "(?<=<hr\\/>)[\\s\\S]*?<hr\\/>";
+    	    Pattern contentPattern = Pattern.compile(contentRegex);
+    	    Matcher contentMatcher = contentPattern.matcher(tmp);
+    	   while (contentMatcher.find()) {
+    	       System.out.println("content: " + contentMatcher.group(0));
+        	   content.setContent(contentMatcher.group(0));
+    	   }
+    	   System.out.println("content 即将插入 :" + content.toString());	
+//           try {
+//   	        mapper.insert(content);
+//	            System.out.println("成功插入 :"+content.toString());
+//   	        session.commit();
+//           } catch (Exception e) {
+//   	        e.printStackTrace();
+//   	        session.rollback();
+//           }
+	}
+
+	public Site getSite() {
+		
+		return site;
+	}
+	
+
+	public Catalogue getCatalogue() {
+		return catalogue;
+	}
+
+	public void setCatalogue(Catalogue catalogue) {
+		this.catalogue = catalogue;
+	}
+
+	public void run() {
+		Spider.create(new ContentWebMagic()).addUrl(catalogue.getOriginUrl()).thread(1).run();		
+	}
+
+//	@Test
+//	public void testWeb(){
+//		this.catalogue = new Catalogue();
+//		this.catalogue.setOriginUrl("http://www.wuxiaworld.com/cdindex-html/book-1-chapter-4/");
+//		this.catalogue.setId(4610);
+//		Spider.create(new ContentWebMagic()).addUrl(catalogue.getOriginUrl()).thread(3).run();
+//
+//	}
+}
