@@ -1197,3 +1197,46 @@ java.lang.NullPointerException
 [INFO] [2016-12-29 17:02:10][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-9
 [INFO] [2016-12-29 17:02:16][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
 [INFO] [2016-12-29 17:02:16][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/book-1-chapter-10
+[INFO] [2016-12-30 16:37:03][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 16:37:03][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 16:42:11][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 16:42:11][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:11:58][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:11:58][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:12:50][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:12:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:13:34][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:13:34][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:15:15][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:15:15][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:15:46][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:15:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:17:03][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:17:03][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:17:51][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:17:51][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:20:12][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:20:12][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:20:27][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:20:27][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:20:43][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:20:43][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:21:41][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:21:41][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:22:44][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:22:44][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2016-12-30 17:23:58][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:23:58][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[ERROR] [2016-12-30 17:24:01][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.wd.CoilingDragon.WebMagic.BookWebMagic.process(BookWebMagic.java:33)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-12-30 17:24:17][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2016-12-30 17:24:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
