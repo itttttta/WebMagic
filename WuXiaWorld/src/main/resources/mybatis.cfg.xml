@@ -38,6 +38,7 @@
         <!-- 告知映射文件方式1，一个一个的配置
         <mapper resource="com/cy/mybatis/mapper/UserMapper.xml"/>-->
         <!-- 告知映射文件方式2，自动扫描包内的Mapper接口与配置文件 -->
+        <mapper resource="com/wd/ColiingDragon/Mapper/BookMapper.xml"/>
         <mapper resource="com/wd/ColiingDragon/Mapper/CatalogueMapper.xml"/>
         <mapper resource="com/wd/ColiingDragon/Mapper/ContentMapper.xml"/>
         

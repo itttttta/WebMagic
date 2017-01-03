@@ -1240,3 +1240,353 @@ java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
 	at java.lang.Thread.run(Thread.java:745)
 [INFO] [2016-12-30 17:24:17][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
 [INFO] [2016-12-30 17:24:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 09:50:44][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 09:50:44][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 10:20:39][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 10:20:39][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[ERROR] [2017-01-03 10:20:40][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com', method='null', extras={statusCode=200}, priority=0} error
+org.apache.ibatis.binding.BindingException: Type interface com.wd.CoilingDragon.Dao.BookMapper is not known to the MapperRegistry.
+	at org.apache.ibatis.binding.MapperRegistry.getMapper(MapperRegistry.java:47)
+	at org.apache.ibatis.session.Configuration.getMapper(Configuration.java:655)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.getMapper(DefaultSqlSession.java:222)
+	at com.wd.CoilingDragon.WebMagic.BookWebMagic.process(BookWebMagic.java:44)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 10:21:27][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 10:21:27][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[ERROR] [2017-01-03 10:21:28][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.Tools.DBTools.getSession(DBTools.java:27)
+	at com.wd.CoilingDragon.WebMagic.BookWebMagic.process(BookWebMagic.java:43)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 10:23:28][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 10:23:28][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[ERROR] [2017-01-03 10:23:31][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.Tools.DBTools.getSession(DBTools.java:27)
+	at com.wd.CoilingDragon.WebMagic.BookWebMagic.process(BookWebMagic.java:43)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 10:25:46][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 10:25:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[ERROR] [2017-01-03 10:25:48][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.Tools.DBTools.getSession(DBTools.java:27)
+	at com.wd.CoilingDragon.WebMagic.BookWebMagic.process(BookWebMagic.java:43)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 10:27:11][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 10:27:11][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[ERROR] [2017-01-03 10:27:13][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com', method='null', extras={statusCode=200}, priority=0} error
+java.lang.NullPointerException
+	at com.wd.Tools.DBTools.getSession(DBTools.java:27)
+	at com.wd.CoilingDragon.WebMagic.BookWebMagic.process(BookWebMagic.java:43)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 10:30:28][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 10:30:28][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[ERROR] [2017-01-03 10:30:30][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.wd.CoilingDragon.WebMagic.BookWebMagic.process(BookWebMagic.java:60)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 14:02:49][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 14:02:49][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[WARN] [2017-01-03 14:02:50][us.codecraft.webmagic.downloader.HttpClientDownloader]Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO] [2017-01-03 14:03:13][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 14:03:13][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[ERROR] [2017-01-03 14:03:18][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.wd.CoilingDragon.WebMagic.BookWebMagic.process(BookWebMagic.java:60)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 14:04:17][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 14:04:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[ERROR] [2017-01-03 14:04:19][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.wd.CoilingDragon.WebMagic.BookWebMagic.process(BookWebMagic.java:87)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 14:04:58][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 14:04:58][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[WARN] [2017-01-03 14:05:06][us.codecraft.webmagic.downloader.HttpClientDownloader]download page http://www.wuxiaworld.com error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270)
+	at org.apache.http.impl.io.ChunkedInputStream.getChunkSize(ChunkedInputStream.java:240)
+	at org.apache.http.impl.io.ChunkedInputStream.nextChunk(ChunkedInputStream.java:206)
+	at org.apache.http.impl.io.ChunkedInputStream.read(ChunkedInputStream.java:169)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:137)
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:238)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:68)
+	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1025)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:999)
+	at org.apache.commons.io.IOUtils.toByteArray(IOUtils.java:218)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.getContent(HttpClientDownloader.java:193)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.handleResponse(HttpClientDownloader.java:182)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:96)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 14:06:29][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 14:06:29][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[ERROR] [2017-01-03 14:06:31][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.wd.CoilingDragon.WebMagic.BookWebMagic.process(BookWebMagic.java:77)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 14:06:59][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 14:06:59][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 14:08:35][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 14:08:35][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 14:09:00][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 14:09:00][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[ERROR] [2017-01-03 14:09:02][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.wd.CoilingDragon.WebMagic.BookWebMagic.process(BookWebMagic.java:60)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 14:09:50][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 14:09:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[ERROR] [2017-01-03 14:09:54][us.codecraft.webmagic.Spider]process request Request{url='http://www.wuxiaworld.com', method='null', extras={statusCode=200}, priority=0} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.wd.CoilingDragon.WebMagic.BookWebMagic.process(BookWebMagic.java:60)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:421)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 14:10:50][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 14:10:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 17:07:48][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:07:48][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 17:10:22][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:10:22][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 17:12:51][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:12:51][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 17:13:30][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:13:30][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 17:13:34][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:13:34][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/7-killers/
+[INFO] [2017-01-03 17:13:35][org.apache.http.impl.execchain.RetryExec]I/O exception (java.net.SocketException) caught when processing request to {}->http://www.wuxiaworld.com:80: Connection reset
+[INFO] [2017-01-03 17:13:35][org.apache.http.impl.execchain.RetryExec]Retrying request to {}->http://www.wuxiaworld.com:80
+[INFO] [2017-01-03 17:13:50][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:13:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/col-index/
+[INFO] [2017-01-03 17:14:02][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:14:02][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[WARN] [2017-01-03 17:14:15][us.codecraft.webmagic.downloader.HttpClientDownloader]download page http://www.wuxiaworld.com/cdindex-html/ error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:203)
+	at org.apache.http.impl.io.ChunkedInputStream.read(ChunkedInputStream.java:174)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:137)
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:238)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:68)
+	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1025)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:999)
+	at org.apache.commons.io.IOUtils.toByteArray(IOUtils.java:218)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.getContent(HttpClientDownloader.java:193)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.handleResponse(HttpClientDownloader.java:182)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:96)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 17:14:16][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:14:16][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/dkwss/
+[INFO] [2017-01-03 17:14:22][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:14:22][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/hsnt-index/
+[INFO] [2017-01-03 17:14:30][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:14:30][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/tymyd-index/
+[INFO] [2017-01-03 17:14:35][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:14:35][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/st-index/
+[INFO] [2017-01-03 17:19:27][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:19:27][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 17:19:29][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:19:29][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/7-killers/
+[INFO] [2017-01-03 17:19:38][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:19:38][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/col-index/
+[INFO] [2017-01-03 17:19:45][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:19:45][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2017-01-03 17:19:55][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:19:55][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/dkwss/
+[INFO] [2017-01-03 17:20:02][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:20:02][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/hsnt-index/
+[INFO] [2017-01-03 17:20:08][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:20:08][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/tymyd-index/
+[INFO] [2017-01-03 17:20:15][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:20:15][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/st-index/
+[INFO] [2017-01-03 17:21:56][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:21:56][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 17:21:59][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:21:59][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/7-killers/
+[INFO] [2017-01-03 17:22:06][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:22:06][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/col-index/
+[INFO] [2017-01-03 17:22:13][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:22:13][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/cdindex-html/
+[INFO] [2017-01-03 17:22:20][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:22:20][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/dkwss/
+[WARN] [2017-01-03 17:22:27][us.codecraft.webmagic.downloader.HttpClientDownloader]download page http://www.wuxiaworld.com/dkwss/ error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270)
+	at org.apache.http.impl.io.ChunkedInputStream.getChunkSize(ChunkedInputStream.java:240)
+	at org.apache.http.impl.io.ChunkedInputStream.nextChunk(ChunkedInputStream.java:206)
+	at org.apache.http.impl.io.ChunkedInputStream.read(ChunkedInputStream.java:169)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:137)
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:238)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:68)
+	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1025)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:999)
+	at org.apache.commons.io.IOUtils.toByteArray(IOUtils.java:218)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.getContent(HttpClientDownloader.java:193)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.handleResponse(HttpClientDownloader.java:182)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:96)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 17:22:28][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:22:28][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/hsnt-index/
+[INFO] [2017-01-03 17:22:34][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:22:34][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/tymyd-index/
+[INFO] [2017-01-03 17:22:40][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:22:40][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/st-index/
+[INFO] [2017-01-03 17:31:14][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:31:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 17:31:17][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:31:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/7-killers/
+[INFO] [2017-01-03 17:38:27][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:38:27][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 17:38:37][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:38:37][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/7-killers/
+[WARN] [2017-01-03 17:38:44][us.codecraft.webmagic.downloader.HttpClientDownloader]download page http://www.wuxiaworld.com/7-killers/ error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:203)
+	at org.apache.http.impl.io.ChunkedInputStream.read(ChunkedInputStream.java:174)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:137)
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:238)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:68)
+	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1025)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:999)
+	at org.apache.commons.io.IOUtils.toByteArray(IOUtils.java:218)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.getContent(HttpClientDownloader.java:193)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.handleResponse(HttpClientDownloader.java:182)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:96)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:409)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2017-01-03 17:38:45][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:38:45][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/col-index/
+[INFO] [2017-01-03 17:38:47][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:38:47][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/master-index/7-killers-chapter-1/
+[INFO] [2017-01-03 17:38:57][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:38:57][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/master-index/7-killers-chapter-1/
+[INFO] [2017-01-03 17:43:12][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:43:12][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com
+[INFO] [2017-01-03 17:43:15][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:43:15][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/7-killers/
+[INFO] [2017-01-03 17:43:21][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:43:21][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/master-index/7-killers-chapter-1/
+[INFO] [2017-01-03 17:43:31][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:43:31][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/master-index/7-killers-chapter-1/
+[INFO] [2017-01-03 17:43:46][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:43:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/master-index/7-killers-chapter-1/
+[INFO] [2017-01-03 17:43:53][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:43:53][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/master-index/7-killers-chapter-1/
+[INFO] [2017-01-03 17:44:00][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:44:00][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/master-index/7-killers-chapter-1/
+[INFO] [2017-01-03 17:44:09][us.codecraft.webmagic.Spider]Spider www.wuxiaworld.com started!
+[INFO] [2017-01-03 17:44:09][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://www.wuxiaworld.com/master-index/7-killers-chapter-1/
